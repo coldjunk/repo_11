@@ -1,3 +1,1 @@
-CR1
-2nd line in CR2
-another line CL1
+CL3 as part of git pull merge and overwriting f1.txt
