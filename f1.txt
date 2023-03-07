@@ -1,1 +1,2 @@
 CR1
+2nd line in CR2
