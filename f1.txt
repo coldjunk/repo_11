@@ -1,2 +1,3 @@
 CR1
 2nd line in CR2
+3rd lin in CR3
